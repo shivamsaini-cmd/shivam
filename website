@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <br/>
+    <header>
+        <h1>my name is shivam</h1>
+        <main>
+            <p> i am in class 11</p>
+
+        </main>
+        <footer>
+            <h5>contact me at my gmail</h5>
+            <ul>
+                <li>mango</li>
+                <li> apple</ul>
+        </ul>
+        </footer>
+    </header>
+    <a href="https://github.com/shivamsaini-cmd/shivam" target="_main"> <img src="https://t3.ftcdn.net/jpg/02/94/61/92/360_F_294619296_5vqYj1CaPI4D2UtdzX6iwGiLOLFBeEnZ.jpg" height="100">
+        
+    <img src="https://images.pexels.com/photos/35967/mini-cooper-auto-model-vehicle.jpg?cs=srgb&dl=pexels-pixabay-35967.jpg&fm=jpg" height="100" 
+    <br/>
+    <ul>
+        <li>mango</li>
+        <li> apple</ul>
+    </ul>
+</footer>
+</body>
+</html>
+
